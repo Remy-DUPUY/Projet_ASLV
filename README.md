@@ -25,7 +25,8 @@ Comment lancer l'application ?
 - Téléchargez le fichier Projet-ASLV-Final au format .ZIP
 - Chargez le fichier "app-debug.apk" (présent dans le répertoire APK_Android) sur votre smartphone Android. 
 - Dans les réglages (Sécurité) de votre smartphone, autorisez l'installation d'applications étrangères (sources inconnues).
-- Lancer l'application après l'installation.
+- Lisez la documentation utilisateur, notamment la partie I-Introduction (l'application est hébergée depuis cette page : https://simplytrade.info/ProjetS3/) 
+- Lancer l'application après l'installation et identifiez-vous sur la page d'accueil.
 
 2- Sur PC : 
 - Téléchargez le fichier Projet-ASLV-Final au format .ZIP
